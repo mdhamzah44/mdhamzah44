@@ -26,11 +26,11 @@ Pronouns: he/him
 Location: New Delhi, India
 Company: Ark Vision Infotech
 Role: Software Developer
-Experience: Full-Stack Web Development
+Experience: Full-Stack Softwares Development 
 Focus Areas:
   - Web Applications
   - Mobile App Development
-  - AI-powered Learning Platforms
+  - Learning Platforms
   - Backend Systems
   - Interactive User Experiences
 ```
@@ -64,7 +64,7 @@ A passionate and dedicated software developer with hands-on experience in full-s
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,flask,nodejs,react,mongodb,mysql,firebase,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,ts,python,flask,nodejs,react,mongodb,mysql,firebase,git,github,vscode,linux" />
 
 </div>
 
@@ -96,7 +96,7 @@ Interactive web-based chat application with clean frontend experience and real-t
 
 ### 🧠 FarhamEdu
 
-An interactive educational platform focused on smart learning experiences and modern digital education.
+Interactive educational platform focused on smart learning experiences and modern digital education.
 
 **Tech Used:** HTML, JavaScript
 
@@ -105,6 +105,14 @@ An interactive educational platform focused on smart learning experiences and mo
 ### 🐍 Data Recovery
 
 Python-based utility project focused on recovery operations and data management workflows.
+
+---
+
+---
+
+### Sakura Ai
+
+A friendly flirty chatting app & website, focused on entertainment and fun with the Ai.
 
 ---
 
