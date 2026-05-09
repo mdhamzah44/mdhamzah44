@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+App+Developer;AI+%26+Learning+Platform+Builder;Passionate+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+App+Developer;Learning+And+Management+Platform+Builder;Passionate+Software+Engineer" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/mdhamzah44">
